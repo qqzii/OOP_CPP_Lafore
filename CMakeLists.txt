@@ -37,7 +37,7 @@ add_executable(OOP_CPP_Lafore
         #chapter4/task3.cpp
         #chapter4/task4.cpp
         #chapter4/task5.cpp
-        chapter4/task6.cpp
+        #chapter4/task6.cpp
         #chapter4/task7.cpp
         #chapter4/task8.cpp
         #chapter4/task9.cpp

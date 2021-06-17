@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/OOP_CPP_Lafore.dir/chapter4/task6.cpp.obj"
+  "CMakeFiles/OOP_CPP_Lafore.dir/chapter4/task12.cpp.obj"
   "OOP_CPP_Lafore.exe"
   "OOP_CPP_Lafore.exe.manifest"
   "OOP_CPP_Lafore.lib"

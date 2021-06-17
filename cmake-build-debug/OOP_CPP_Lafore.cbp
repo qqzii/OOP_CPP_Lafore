@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter4/task6.cpp">
+		<Unit filename="D:/OOP_CPP_Lafore/chapter4/task12.cpp">
 			<Option target="OOP_CPP_Lafore"/>
 		</Unit>
 		<Unit filename="D:/OOP_CPP_Lafore/CMakeLists.txt">
