@@ -60,33 +60,33 @@ include CMakeFiles\OOP_CPP_Lafore.dir\progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles\OOP_CPP_Lafore.dir\flags.make
 
-CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.obj: CMakeFiles\OOP_CPP_Lafore.dir\flags.make
-CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.obj: ..\chapter3\task7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\OOP_CPP_Lafore\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OOP_CPP_Lafore.dir/chapter3/task7.cpp.obj"
+CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.obj: CMakeFiles\OOP_CPP_Lafore.dir\flags.make
+CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.obj: ..\chapter3\answers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\OOP_CPP_Lafore\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OOP_CPP_Lafore.dir/chapter3/answers.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.obj /FdCMakeFiles\OOP_CPP_Lafore.dir\ /FS -c D:\OOP_CPP_Lafore\chapter3\task7.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.obj /FdCMakeFiles\OOP_CPP_Lafore.dir\ /FS -c D:\OOP_CPP_Lafore\chapter3\answers.cpp
 <<
 
-CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOP_CPP_Lafore.dir/chapter3/task7.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe > CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\OOP_CPP_Lafore\chapter3\task7.cpp
+CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOP_CPP_Lafore.dir/chapter3/answers.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe > CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\OOP_CPP_Lafore\chapter3\answers.cpp
 <<
 
-CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP_CPP_Lafore.dir/chapter3/task7.cpp.s"
+CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOP_CPP_Lafore.dir/chapter3/answers.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.s /c D:\OOP_CPP_Lafore\chapter3\task7.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.s /c D:\OOP_CPP_Lafore\chapter3\answers.cpp
 <<
 
 # Object files for target OOP_CPP_Lafore
 OOP_CPP_Lafore_OBJECTS = \
-"CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.obj"
+"CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.obj"
 
 # External object files for target OOP_CPP_Lafore
 OOP_CPP_Lafore_EXTERNAL_OBJECTS =
 
-OOP_CPP_Lafore.exe: CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.obj
+OOP_CPP_Lafore.exe: CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.obj
 OOP_CPP_Lafore.exe: CMakeFiles\OOP_CPP_Lafore.dir\build.make
 OOP_CPP_Lafore.exe: CMakeFiles\OOP_CPP_Lafore.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\OOP_CPP_Lafore\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable OOP_CPP_Lafore.exe"

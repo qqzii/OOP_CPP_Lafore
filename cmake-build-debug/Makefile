@@ -126,32 +126,32 @@ OOP_CPP_Lafore\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OOP_CPP_Lafore.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OOP_CPP_Lafore.dir\build
 .PHONY : OOP_CPP_Lafore\fast
 
-chapter3\task7.obj: chapter3\task7.cpp.obj
+chapter3\answers.obj: chapter3\answers.cpp.obj
 
-.PHONY : chapter3\task7.obj
+.PHONY : chapter3\answers.obj
 
 # target to build an object file
-chapter3\task7.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OOP_CPP_Lafore.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.obj
-.PHONY : chapter3\task7.cpp.obj
+chapter3\answers.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OOP_CPP_Lafore.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.obj
+.PHONY : chapter3\answers.cpp.obj
 
-chapter3\task7.i: chapter3\task7.cpp.i
+chapter3\answers.i: chapter3\answers.cpp.i
 
-.PHONY : chapter3\task7.i
+.PHONY : chapter3\answers.i
 
 # target to preprocess a source file
-chapter3\task7.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OOP_CPP_Lafore.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.i
-.PHONY : chapter3\task7.cpp.i
+chapter3\answers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OOP_CPP_Lafore.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.i
+.PHONY : chapter3\answers.cpp.i
 
-chapter3\task7.s: chapter3\task7.cpp.s
+chapter3\answers.s: chapter3\answers.cpp.s
 
-.PHONY : chapter3\task7.s
+.PHONY : chapter3\answers.s
 
 # target to generate assembly for a file
-chapter3\task7.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OOP_CPP_Lafore.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OOP_CPP_Lafore.dir\chapter3\task7.cpp.s
-.PHONY : chapter3\task7.cpp.s
+chapter3\answers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OOP_CPP_Lafore.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\OOP_CPP_Lafore.dir\chapter3\answers.cpp.s
+.PHONY : chapter3\answers.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... OOP_CPP_Lafore
-	@echo ... chapter3/task7.obj
-	@echo ... chapter3/task7.i
-	@echo ... chapter3/task7.s
+	@echo ... chapter3/answers.obj
+	@echo ... chapter3/answers.i
+	@echo ... chapter3/answers.s
 .PHONY : help
 
 
