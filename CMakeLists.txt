@@ -30,4 +30,18 @@ add_executable(OOP_CPP_Lafore
         #chapter3/task10.cpp
         #chapter3/task11.cpp
         #chapter3/task12.cpp
+
+        #chapter4/answers.cpp
+        #chapter4/task1.cpp
+        #chapter4/task2.cpp
+        #chapter4/task3.cpp
+        #chapter4/task4.cpp
+        #chapter4/task5.cpp
+        chapter4/task6.cpp
+        #chapter4/task7.cpp
+        #chapter4/task8.cpp
+        #chapter4/task9.cpp
+        #chapter4/task10.cpp
+        #chapter4/task11.cpp
+        #chapter4/task12.cpp
         )
