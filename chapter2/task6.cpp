@@ -8,7 +8,7 @@ int main()
     SetConsoleOutputCP(CP_UTF8);
 
     double dollar, funt, frank, n_mark, yen;
-    cout << "Введите сумму в долларах: ";
+    cout << "Введите сумму в долларах:";
     cin >> dollar;
     funt = dollar / 1.487;
     frank = dollar / 0.172;
