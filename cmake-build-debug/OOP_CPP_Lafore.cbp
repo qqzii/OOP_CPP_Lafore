@@ -82,40 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task1.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task10.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task11.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task12.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task2.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task3.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task4.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task5.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
 		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task6.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task7.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task8.cpp">
-			<Option target="OOP_CPP_Lafore"/>
-		</Unit>
-		<Unit filename="D:/OOP_CPP_Lafore/chapter2/task9.cpp">
 			<Option target="OOP_CPP_Lafore"/>
 		</Unit>
 		<Unit filename="D:/OOP_CPP_Lafore/CMakeLists.txt">
