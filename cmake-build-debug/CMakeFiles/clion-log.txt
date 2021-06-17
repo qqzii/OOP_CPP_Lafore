@@ -1,4 +1,7 @@
 "C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" D:\OOP_CPP_Lafore
 -- Configuring done
--- Generating done
--- Build files have been written to: D:/OOP_CPP_Lafore/cmake-build-debug
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: OOP_CPP_Lafore
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
